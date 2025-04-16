@@ -4,7 +4,7 @@ The official PyTorch implementation of our paper:
 
 **[TPAMI 2025] JointFormer: A Unified Framework with Joint Modeling for Video Object Segmentation**
 
-Authors: [Jiaming Zhang](https://github.com/z-jiaming/), [Yutao Cui](https://github.com/yutaocui), Ganshan Wu, [Limin Wang](https://wanglimin.github.io/)
+Authors: [Jiaming Zhang](https://github.com/z-jiaming/), [Yutao Cui](https://github.com/yutaocui), Gangshan Wu, [Limin Wang](https://wanglimin.github.io/)
 
 Paper: [arxiv](https://arxiv.org/abs/2308.13505), [IEEE](https://ieeexplore.ieee.org/document/10949703)
 
