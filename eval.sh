@@ -5,9 +5,6 @@ topk_block="all_blocks"
 topk_clstoken="N"
 output="./output"
 
-model="/group/40063/zhangjiaming/Workspace/JointFormer/checkpoints/Jan26_21.25.22_backbone_mixattn_convmae_v1_clsToken_v3-score_mode_score_clstoken-backbone_update_clsToken_prob0.6-update_clsToken_depth2-update_query_depth1-noboxloss-lr5e-5_steps100K_2+4_onlys2_160K_s2_152000.pth"
-
-
 ### DAVIS 2017 val
 
 dataset="D17"
